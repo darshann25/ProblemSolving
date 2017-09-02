@@ -5,5 +5,6 @@
     <li> Spiral Order Matrix II </li>
     <li> Anti-Diagonals </li>
     <li> Next Permutation </li>
+    <li> Rain-water Trapped </li>
 </ul>
 
