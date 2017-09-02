@@ -8,3 +8,9 @@
     <li> Rain-water Trapped </li>
 </ul>
 
+<h3> Math: </h3>
+<ul>
+    <li> Trailing Zeroes in Factorial </li>
+    <li> FizzBuzz </li>
+    <li> Grid Unique Paths </li>
+</ul>
