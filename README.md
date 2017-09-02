@@ -1,3 +1,9 @@
-#microsoft_interview_prep
-- Max Sum Contiguous Subarray
-- Spiral Order Matrix II
+# Microsoft Interview Prep
+<h3> Arrays: </h3>
+<ul>
+    <li> Max Sum Contiguous Subarray </li>
+    <li> Spiral Order Matrix II </li>
+    <li> Anti-Diagonals </li>
+    <li> Next Permutation </li>
+</ul>
+
