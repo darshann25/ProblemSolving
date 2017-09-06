@@ -19,4 +19,5 @@
 <h3> Binary Search: </h3>
 <ul>
     <li> Square Root of Integer </li>
+    <li> Search Range </li>
 </ul>
