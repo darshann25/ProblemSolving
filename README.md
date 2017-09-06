@@ -1,11 +1,12 @@
 # Microsoft Interview Prep
 <h3> Arrays: </h3>
 <ul>
-    <li> Max Sum Contiguous Subarray </li>
+    <li> Max Sum Contiguous Subarray (return sum) </li>
     <li> Spiral Order Matrix II </li>
     <li> Anti-Diagonals </li>
     <li> Next Permutation </li>
     <li> Rain-water Trapped </li>
+    <li> Max Sum Contiguous Subarray (return subarray) </li>
 </ul>
 
 <h3> Math: </h3>
