@@ -14,3 +14,9 @@
     <li> FizzBuzz </li>
     <li> Grid Unique Paths </li>
 </ul>
+
+
+<h3> Binary Search: </h3>
+<ul>
+    <li> Square Root of Integer </li>
+</ul>
