@@ -55,5 +55,9 @@ s = Solution()
 l1 = [1, 4, 5]
 l2 = [2, 3]
 
+f1 = [5, 6, 8, 30, 35, 37]
+f2 = [4, 7, 10, 20, 21, 22]
+
 assert s.findMedianSortedArrays(l1, l2) == 3, "Houston, we have a problem."
+print s.findKthElement(6, f1, f2, 0, 0)
 print "Success!"

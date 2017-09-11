@@ -1,4 +1,4 @@
-# Microsoft Interview Prep
+# Interview Prep
 <h3> Arrays: </h3>
 <ul>
     <li> Max Sum Contiguous Subarray (return sum) </li>
