@@ -21,4 +21,6 @@
 <ul>
     <li> Square Root of Integer </li>
     <li> Search Range </li>
+    <li> Rotated Sorted Array Search </li>
+    <li> Median of Two Sorted Arrays </li>
 </ul>
