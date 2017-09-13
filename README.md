@@ -14,6 +14,7 @@
     <li> Trailing Zeroes in Factorial </li>
     <li> FizzBuzz </li>
     <li> Grid Unique Paths </li>
+    <li> Prime Sum </li>
 </ul>
 
 
