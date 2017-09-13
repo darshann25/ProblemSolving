@@ -25,3 +25,8 @@
     <li> Rotated Sorted Array Search </li>
     <li> Median of Two Sorted Arrays </li>
 </ul>
+
+<h3> Trees: </h3>
+<ul>
+    <li> PreOrder Array to Binary Search Tree </li>
+</ul>
