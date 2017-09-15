@@ -26,6 +26,11 @@
     <li> Median of Two Sorted Arrays </li>
 </ul>
 
+<h3> Strings: </h3>
+<ul>
+    <li> Reverse the String </li>
+</ul>
+
 <h3> Trees: </h3>
 <ul>
     <li> PreOrder Array to Binary Search Tree </li>
