@@ -7,6 +7,10 @@
     <li> Next Permutation [<b>Python</b>]</li>
     <li> Rain-water Trapped [<b>Python</b>]</li>
     <li> Max Sum Contiguous Subarray (return subarray) [<b>Python</b>]</li>
+</ul>
+
+<h3> String: </h3>
+<ul>
     <li> Unique String [<b>Java</b>]</li>
 </ul>
 
