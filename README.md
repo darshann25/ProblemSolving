@@ -9,11 +9,6 @@
     <li> Max Sum Contiguous Subarray (return subarray) [<b>Python</b>]</li>
 </ul>
 
-<h3> String: </h3>
-<ul>
-    <li> Unique String [<b>Java</b>]</li>
-</ul>
-
 <h3> Math: </h3>
 <ul>
     <li> Trailing Zeroes in Factorial [<b>Python</b>]</li>
@@ -33,7 +28,8 @@
 
 <h3> Strings: </h3>
 <ul>
-    <li> Reverse the String </li>
+    <li> Reverse the String [<b>Python</b>]</li>
+    <li> Unique String [<b>Java</b>]</li>
 </ul>
 
 <h3> Trees: </h3>
