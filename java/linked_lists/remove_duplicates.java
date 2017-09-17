@@ -2,7 +2,6 @@ package interview.java.linked_lists;
 
 import interview.interview.java.linked_lists.LinkedListNode;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 
@@ -25,22 +24,18 @@ public class remove_duplicates {
         HashSet<Integer> set = new HashSet<>();
 
         LinkedListNode node = head;
+        LinkedListNode previous = null;
 
         while (node != null) {
-            if(set.contains(node.data)) {
-                if (node.next == null) {
-                    node = null;
-                } else {
-                    LinkedListNode next = node.next;
-                    node.data = next.data;
-                    node.next = next.next;
-                }
+            if(set.contains(node.data)){
+                previous.next = node.next;
             } else {
+                previous = node;
                 set.add(node.data);
-                node = node.next;
             }
-
+            node = node.next;
         }
+
         return head;
     }
 }

@@ -32,6 +32,12 @@
     <li> Unique String [<b>Java</b>]</li>
 </ul>
 
+<h3> Linked List: </h3>
+<ul>
+    <li> Remove Duplicates [<b>Java</b>]</li>
+</ul>
+
+
 <h3> Trees: </h3>
 <ul>
     <li> PreOrder Array to Binary Search Tree [<b>Python</b>]</li>
