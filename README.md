@@ -35,6 +35,7 @@
 <h3> Linked List: </h3>
 <ul>
     <li> Remove Duplicates [<b>Java</b>]</li>
+    <li> Remove Duplicates Completely [<b>Java</b>]</li>
 </ul>
 
 
