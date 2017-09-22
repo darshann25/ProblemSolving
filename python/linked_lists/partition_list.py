@@ -8,12 +8,8 @@ Given 1->4->3->2->5->2 and x = 3,
 return 1->2->2->4->3->5.
 """
 
-# Definition for singly-linked list.
-class ListNode:
-     def __init__(self, x):
-         self.val = x
-         self.next = None
-
+from list_node import ListNode
+from list_node import createLinkedList
 
 class Solution:
     # @param A : head node of linked list
@@ -56,9 +52,15 @@ class Solution:
 s = Solution()
 
 list = [1, 4, 3, 2, 5, 2]
-head = ListNode(list[0])
-node = head
+node = createLinkedList(list)
+print "Before Partitioning : "
+print node.returnLinkedListAsList()
 
-for i in range(len(list)):
-    node.next = ListNode(list[i+1])
-    node = node.next
+print "\nAfter Partitioning : "
+res = s.partition(node, 3)
+resList = res.returnLinkedListAsList()
+print resList
+
+expected = [1, 2, 2, 4, 3, 5]
+assert resList == expected, "Houston, we have a problem!"
+print "\nSuccess!"
