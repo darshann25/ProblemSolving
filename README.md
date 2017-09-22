@@ -36,6 +36,7 @@
 <ul>
     <li> Remove Duplicates [<b>Java</b>]</li>
     <li> Remove Duplicates Completely [<b>Java</b>]</li>
+    <li> Partition List [<b>Python</b>]</li>
 </ul>
 
 
