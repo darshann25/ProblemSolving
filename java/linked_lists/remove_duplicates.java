@@ -1,4 +1,4 @@
-package interview.java.linked_lists;
+package interview.interview.java.linked_lists;
 
 import interview.interview.java.linked_lists.LinkedListNode;
 
