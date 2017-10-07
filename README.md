@@ -45,3 +45,8 @@
 <ul>
     <li> PreOrder Array to Binary Search Tree [<b>Python</b>]</li>
 </ul>
+
+<H3> Dynamic Programming: </h3>
+<ul>
+    <li> Longest Increasing Subsequence [<b>Java</b>]</li>
+</ul>
