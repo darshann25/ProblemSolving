@@ -30,6 +30,7 @@
 <ul>
     <li> Reverse the String [<b>Python</b>]</li>
     <li> Unique String [<b>Java</b>]</li>
+    <li> Longest Palindromic Substring [<b>Java</b>]</li>
 </ul>
 
 <h3> Linked List: </h3>
@@ -51,4 +52,5 @@
     <li> Longest Increasing Subsequence [<b>Java</b>]</li>
     <li> Length of Longest Subsequence [<b>Python</b>]</li>
     <li> Edit Distance [<b>Java</b>]</li>
+    <li> Longest Palindromic Substring [<b>Java</b>]</li>
 </ul>
