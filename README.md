@@ -41,6 +41,10 @@
     <li> Reverse In-Between Linked List [<b>Python</b>]</li>
 </ul>
 
+<h3> Bit Manipulation : </h3>
+<ul>
+    <li> Divide Integers [<b>Java</b>]</li>
+</ul>
 
 <h3> Trees: </h3>
 <ul>
