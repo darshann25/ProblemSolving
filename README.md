@@ -58,4 +58,5 @@
     <li> Length of Longest Subsequence [<b>Python</b>]</li>
     <li> Edit Distance [<b>Java</b>]</li>
     <li> Longest Palindromic Substring [<b>Java</b>]</li>
+    <li> Coin Sum Infinite [<b>Java</b>]</li>
 </ul>
