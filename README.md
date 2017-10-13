@@ -66,3 +66,8 @@
 <ul>
     <li> Distribute Candy [<b>Java</b>]</li>
 </ul>
+
+<h3> Heaps: </h3>
+<ul>
+    <li> MinIntHeap [<b>Java</b>]</li>
+</ul>
