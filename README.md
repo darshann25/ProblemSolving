@@ -59,4 +59,5 @@
     <li> Edit Distance [<b>Java</b>]</li>
     <li> Longest Palindromic Substring [<b>Java</b>]</li>
     <li> Coin Sum Infinite [<b>Java</b>]</li>
+    <li> Max Product Subarray [<b>Java</b>]</li>
 </ul>
