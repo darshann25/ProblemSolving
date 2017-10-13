@@ -61,3 +61,8 @@
     <li> Coin Sum Infinite [<b>Java</b>]</li>
     <li> Max Product Subarray [<b>Java</b>]</li>
 </ul>
+
+<h3> Greedy Algorithms: </h3>
+<ul>
+    <li> Distribute Candy [<b>Java</b>]</li>
+</ul>
