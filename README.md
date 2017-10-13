@@ -71,3 +71,8 @@
 <ul>
     <li> MinIntHeap [<b>Java</b>]</li>
 </ul>
+
+<h3> Sorting: </h3>
+<ul>
+    <li> Counting Sort [<b>Java</b>]</li>
+</ul>
