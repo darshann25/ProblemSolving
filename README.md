@@ -76,3 +76,8 @@
 <ul>
     <li> Counting Sort [<b>Java</b>]</li>
 </ul>
+
+<h3> Unclassified: </h3>
+<ul>
+    <li> FindX [<b>Java</b>] (Memoization)</li>
+</ul>
