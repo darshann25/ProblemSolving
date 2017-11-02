@@ -1,6 +1,5 @@
 package interview.interview.java.sorting;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class counting_sort {
