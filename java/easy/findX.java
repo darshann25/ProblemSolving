@@ -1,4 +1,4 @@
-package interview.interview.java.unclassified;
+package interview.interview.java.easy;
 
 import java.util.*;
 import java.lang.*;
@@ -10,7 +10,7 @@ class findX {
     private static HashMap<Integer, Integer> xMap = new HashMap<>();
 
     public static void main (String[] args) throws FileNotFoundException {
-        Scanner sc = new Scanner(new File("./src/interview/interview/java/unclassified/findX_input.txt"));
+        Scanner sc = new Scanner(new File("./src/interview/interview/java/easy/findX_input.txt"));
         int test_cases = sc.nextInt();
 
         for ( int i = 0; i < test_cases; i++ ) {
@@ -33,10 +33,6 @@ class findX {
             if(value == N) {
                 result++;
             }
-            if (value > N) {
-                i = (i + 10);
-                i -= (i % 10) - 1;
-            }
         }
         return result;
     }
@@ -58,6 +54,7 @@ class findX {
 
     public static int prod(int num) {
         if(prodMap.containsKey(num)) return prodMap.get(num);
+        if(num == 0) return num;
 
         int value = 1;
         int orgNum = num;
