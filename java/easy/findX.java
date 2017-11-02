@@ -1,3 +1,30 @@
+/**
+ *
+ Given a value N. Find number of values X ( 1<=X<=N) which satisfy the equation.
+ X + S(F(X)) + S(F(S(F(X))) = N
+ where F(X) is a function which returns the product of digits of X, and S(X) is a function which returns sum of digits of X.
+
+ Input:
+
+ First line of test case contains an integer T, denoting number of the test cases. Each line of the test case contains an integer N.
+
+ Output:
+
+ For each of the test case print the answer in separate line.
+
+ Constraints:
+ 1<=T<=10^4
+ 1<=N<=10^5
+
+ Example:
+ Input:
+ 1
+ 6
+
+ Output:
+ 1
+ */
+
 package interview.interview.java.easy;
 
 import java.util.*;
