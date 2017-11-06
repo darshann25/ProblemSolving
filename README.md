@@ -1,4 +1,4 @@
-# Interview Prep
+# Problem Solving
 <h3> Arrays: </h3>
 <ul>
     <li> Max Sum Contiguous Subarray (return sum) (Set 2) [<b>Python</b>]</li>
