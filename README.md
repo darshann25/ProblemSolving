@@ -75,6 +75,7 @@
 <h3> Sorting: </h3>
 <ul>
     <li> Counting Sort [<b>Java</b>]</li>
+    <li> Simple Bitwise Sort [<b>Java</b>]</li>
 </ul>
 
 <h3> Easy: </h3>
