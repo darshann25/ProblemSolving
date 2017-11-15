@@ -85,10 +85,11 @@
     <li> FindX [<b>Java</b>] (Memoization)</li>
 </ul>
 
-<h2>HackerRank</h2>
-<h3>Implementation</h3>
+<h2>HackerRank </h2>
+<h3>Implementation: </h3>
 <ul>
-<li>Grading Students</li>
-<li>Apples And Oranges</li>
+    <li>Grading Students</li>
+    <li>Apples And Oranges</li>
+    <li>Compare The Triplets</li>
 </ul>
 
