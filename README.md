@@ -1,4 +1,5 @@
 # Problem Solving
+<h2> Interview Bit </h2>
 <h3> Arrays: </h3>
 <ul>
     <li> Max Sum Contiguous Subarray (return sum) (Set 2) [<b>Python</b>]</li>
@@ -78,7 +79,16 @@
     <li> Simple Bitwise Sort [<b>Java</b>]</li>
 </ul>
 
+<h2> LeetCode </h2>
 <h3> Easy: </h3>
 <ul>
     <li> FindX [<b>Java</b>] (Memoization)</li>
 </ul>
+
+<h2>HackerRank</h2>
+<h3>Implementation</h3>
+<ul>
+<li>Grading Students</li>
+<li>Apples And Oranges</li>
+</ul>
+
