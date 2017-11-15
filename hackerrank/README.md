@@ -5,4 +5,5 @@
     <li>Apples And Oranges</li>
     <li>Compare The Triplets</li>
     <li>A Very Big Sum</li>
+    <li>Diagonal Difference</li>
 </ul>
