@@ -1,4 +1,12 @@
 # Problem Solving
+<h2> LeetCode </h2>
+<ul>
+    <li> Two Sum [Python] (<b>Arrays</b>)</li>
+    <li> Num Islands [Python] (<b>Depth First Search</b>)</li>
+    <li> FindX [Java] (<b>Memoization</b>)</li>
+</ul>
+
+
 <h2> Interview Bit </h2>
 <h3> Arrays: </h3>
 <ul>
@@ -77,12 +85,6 @@
 <ul>
     <li> Counting Sort [<b>Java</b>]</li>
     <li> Simple Bitwise Sort [<b>Java</b>]</li>
-</ul>
-
-<h2> LeetCode </h2>
-<h3> Easy: </h3>
-<ul>
-    <li> FindX [<b>Java</b>] (Memoization)</li>
 </ul>
 
 <h2>HackerRank </h2>
