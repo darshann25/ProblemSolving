@@ -21,7 +21,8 @@ Input:
 Output: 3
 """
 
-
+# Time Complexity : O(n^2)
+# Space Complexity : O(1)
 class Solution(object):
     def numIslands(self, grid):
         """
@@ -54,6 +55,3 @@ s = Solution()
 grid = [["1","1","1","1","0"],["1","1","0","1","0"],["1","1","0","0","0"],["0","0","0","0","0"]]
 assert s.numIslands(grid) == 1, "Houston, we have a problem!"
 print("Success!")
-
-# Time Complexity : O(n^2)
-# Space Complexity : O(1)
