@@ -1,12 +1,17 @@
 # Problem Solving
 <h2> LeetCode </h2>
 <ul>
-    <li> Two Sum [Python] (<b>Arrays</b>)</li>
-    <li> Num Islands [Python] (<b>Depth First Search</b>)</li>
-    <li> FindX [Java] (<b>Memoization</b>)</li>
+    <li> Two Sum (<b>Easy</b>)</li>
+    <li> Valid Parentheses (<b>Easy</b>)</li>
+    <li> Num Islands (<b>Medium</b>)</li>
+    <li> LRU Cache (<b>Medium</b>)</li>
+    
 </ul>
 
+***
 
+
+<h2>Prior to 2020</h2>
 <h2> Interview Bit </h2>
 <h3> Arrays: </h3>
 <ul>
@@ -85,6 +90,11 @@
 <ul>
     <li> Counting Sort [<b>Java</b>]</li>
     <li> Simple Bitwise Sort [<b>Java</b>]</li>
+</ul>
+
+<h2> LeetCode </h2>
+<ul>
+    <li> FindX [Java] (<b>Hard - Memoization</b>)</li>
 </ul>
 
 <h2>HackerRank </h2>
