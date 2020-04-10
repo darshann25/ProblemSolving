@@ -3,6 +3,7 @@
 <ul>
     <li> Two Sum (<b>Easy</b>)</li>
     <li> Valid Parentheses (<b>Easy</b>)</li>
+    <li> Reverse Linked List - Recursive and Iterative (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     
