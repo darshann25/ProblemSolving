@@ -1,14 +1,14 @@
 # Problem Solving
 <h2> LeetCode </h2>
-<ul>
+<ol>
     <li> Two Sum (<b>Easy</b>)</li>
     <li> Valid Parentheses (<b>Easy</b>)</li>
     <li> Reverse Linked List - Recursive and Iterative (<b>Easy</b>)</li>
     <l1> Merge Two Sorted Lists - Recursive and Iterative (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
-    
-</ul>
+    <li> Trapping Rain Water (<b>Hard</b>)</li>
+</ol>
 
 ***
 
