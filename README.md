@@ -10,6 +10,7 @@
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Longest Palindromic Substring (<b>Medium</b>)</li>
+    <li> Three Sum (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
 </ol>
 
