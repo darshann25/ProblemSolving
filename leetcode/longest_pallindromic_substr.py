@@ -45,3 +45,7 @@ class Solution:
                     dp[i][j] = 0
 
         return maxStr
+
+s = Solution()
+assert s.longestPalindrome("abab") == "bab", "Houston, we have a problem!"
+print("Success!")
