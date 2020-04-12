@@ -17,6 +17,7 @@
 <h2> AlgoExpert.io </h2>
 <ol>
     <li> Two Sum (<b>Easy</b>)</li>
+    <li> Find Closest Value in BST (<b>Easy</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
 </ol>
 
