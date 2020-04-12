@@ -6,6 +6,7 @@
     <li> Reverse Linked List - Recursive and Iterative (<b>Easy</b>)</li>
     <li> Merge Two Sorted Lists - Recursive and Iterative (<b>Easy</b>)</li>
     <li> Remove Vowels (<b>Easy</b>)</li>
+    <li> Defanging IP Address (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Longest Palindromic Substring (<b>Medium</b>)</li>
