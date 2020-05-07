@@ -18,6 +18,7 @@
 <ol>
     <li> Two Sum (<b>Easy</b>)</li>
     <li> Find Closest Value in BST (<b>Easy</b>)</li>
+    <li> Branch Sums (<b>Easy</b>) </li>
     <li> Three Sum (<b>Medium</b>)</li>
     <li> Smallest Difference (<b>Medium</b>)</li>
     <li> Move Element to End (<b>Medium</b>)</li>
