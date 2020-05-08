@@ -22,6 +22,7 @@
     <li> Three Sum (<b>Medium</b>)</li>
     <li> Smallest Difference (<b>Medium</b>)</li>
     <li> Move Element to End (<b>Medium</b>)</li>
+    <li> Pattern Matcher (<b>Hard</b>)</li>
 </ol>
 
 ***
