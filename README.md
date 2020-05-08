@@ -23,6 +23,7 @@
     <li> Smallest Difference (<b>Medium</b>)</li>
     <li> Move Element to End (<b>Medium</b>)</li>
     <li> Pattern Matcher (<b>Hard</b>)</li>
+    <li> Subarray Sort (<b>Hard</b>)</li>
 </ol>
 
 ***
