@@ -11,6 +11,7 @@
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Longest Palindromic Substring (<b>Medium</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
+    <li> Longest Substring without Repeating Characters (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
 </ol>
 
@@ -24,6 +25,7 @@
     <li> Move Element to End (<b>Medium</b>)</li>
     <li> Pattern Matcher (<b>Hard</b>)</li>
     <li> Subarray Sort (<b>Hard</b>)</li>
+    <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
 </ol>
 
 ***
