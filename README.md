@@ -9,6 +9,7 @@
     <li> Defanging IP Address (<b>Easy</b>)</li>
     <li> Roman to Integer (<b>Easy</b>)</li>
     <li> Implement StrStr (<b>Easy</b>)</li>
+    <li> Symmetric Tree (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Longest Palindromic Substring (<b>Medium</b>)</li>
