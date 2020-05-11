@@ -1,61 +1,47 @@
-"""
-Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+# Review the following link for the question prompt: https://leetcode.com/problems/3sum/
 
-Note:
+# Solution 1 - Brute Force
+# Time Complexity - O(n^3)
+# Space Complexity - O(1)
 
-The solution set must not contain duplicate triplets.
-
-Example:
-
-Given array nums = [-1, 0, 1, 2, -1, -4],
-
-A solution set is:
-[
-  [-1, 0, 1],
-  [-1, -1, 2]
-]
-"""
-
-# Time Complexity: O(n^2)
-# Space Complexity: O(1)
+# Solution 2 - Sort values and iterate
+# Time Complexity - O(n^2)
+# Space Complexity - O(n)
 class Solution:
-    def threeSum(self, nums):
-        res = []
-        nums.sort()
+    def threeSum(self, array: List[int]) -> List[List[int]]:
+        # Write your code here.
+        array.sort()
+        results = []
+        targetSum = 0
 
-        for i in range(len(nums) - 2):
-            if nums[i] > 0:
-                break
-
-            if i > 0 and nums[i] == nums[i-1]:
+        for i in range(len(array) - 2):
+            
+            if array[i] > targetSum:
                 continue
+                
+            if i > 0 and array[i] == array[i-1]:
+                continue
+            
+            l = i + 1
+            r = len(array) - 1
 
-            j = i + 1
-            k = len(nums) - 1
+            while l < r:
+                total = array[i] + array[l] + array[r]
+                result = [array[i], array[l], array[r]]
 
-            while j < k:
-                total = nums[i] + nums[j] + nums[k]
+                if total > targetSum:
+                    r -= 1
+                elif total < targetSum:
+                    l += 1
+                else: # total == targetSum
+                    results.append(result)
+                    
+                    while l < r and array[l] == array[l+1]:
+                        l += 1
+                    while l < r and array[r] == array[r-1]:
+                        r -= 1
+                        
+                    l += 1
+                    r -= 1
 
-                if total < 0:
-                    j += 1
-                elif total > 0:
-                    k -= 1
-
-                else:
-                    element = [nums[i],nums[j],nums[k]]
-                    res.append(element)
-
-                    while j<k and nums[j]==nums[j+1]:
-                        j = j+1
-                    while j<k and nums[k]==nums[k-1]:
-                        k = k-1
-
-                    j += 1
-                    k -= 1
-
-        return res
-
-S = Solution()
-solution = [[-1, -1, 2],[-1, 0, 1]]
-assert S.threeSum([-1, 0, 1, 2, -1, -4]) == solution, "Houston, we have a problem!"
-print("Success!")
+        return results
