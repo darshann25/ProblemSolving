@@ -28,6 +28,7 @@
     <li> Pattern Matcher (<b>Hard</b>)</li>
     <li> Subarray Sort (<b>Hard</b>)</li>
     <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
+    <li> Merge Linked Lists (<b>Hard</b>)</li>
 </ol>
 
 ***
