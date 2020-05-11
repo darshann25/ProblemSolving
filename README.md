@@ -18,6 +18,7 @@
     <li> String to Integer (atoi) (<b>Medium</b>)</li>
     <li> Container with Most Water (<b>Medium</b>)</li>
     <li> Integer to Roman (<b>Medium</b>)</li>
+    <li> Validate BST (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
 </ol>
 
@@ -29,6 +30,7 @@
     <li> Three Sum (<b>Medium</b>)</li>
     <li> Smallest Difference (<b>Medium</b>)</li>
     <li> Move Element to End (<b>Medium</b>)</li>
+    <li> Validate BST (<b>Medium</b>)</li>
     <li> Pattern Matcher (<b>Hard</b>)</li>
     <li> Subarray Sort (<b>Hard</b>)</li>
     <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
