@@ -20,6 +20,8 @@
     <li> Container with Most Water (<b>Medium</b>)</li>
     <li> Integer to Roman (<b>Medium</b>)</li>
     <li> Validate BST (<b>Medium</b>)</li>
+    <li> Binary Tree Level Order Traversal (<b>Medium</b>)</li>
+    <li> Binary Tree Zig-Zag Level Order Traversal (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
 </ol>
 
