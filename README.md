@@ -23,6 +23,7 @@
     <li> Binary Tree Level Order Traversal (<b>Medium</b>)</li>
     <li> Binary Tree Zig-Zag Level Order Traversal (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
+    <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
 </ol>
 
 <h2> AlgoExpert.io </h2>
@@ -38,6 +39,7 @@
     <li> Subarray Sort (<b>Hard</b>)</li>
     <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
     <li> Merge Linked Lists (<b>Hard</b>)</li>
+    <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
 </ol>
 
 ***
