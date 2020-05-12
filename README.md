@@ -22,6 +22,7 @@
     <li> Validate BST (<b>Medium</b>)</li>
     <li> Binary Tree Level Order Traversal (<b>Medium</b>)</li>
     <li> Binary Tree Zig-Zag Level Order Traversal (<b>Medium</b>)</li>
+    <li> Word Ladder (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
 </ol>
