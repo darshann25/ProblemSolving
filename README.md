@@ -25,6 +25,7 @@
     <li> Word Ladder (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
+    <li> Word Ladder II (<b>Hard</b>)</li>
 </ol>
 
 <h2> AlgoExpert.io </h2>
