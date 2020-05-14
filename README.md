@@ -13,6 +13,7 @@
     <li> Most Common Word (<b>Easy</b>)</li>
     <li> Reorder Log Files (<b>Easy</b>)</li>
     <li> Kth Largest Element in Array (<b>Easy</b>)</li>
+    <li> Best Time to Buy and Sell Stocks (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
