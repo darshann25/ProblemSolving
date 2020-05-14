@@ -1,4 +1,4 @@
-# Review the following link for the question prompt: https://leetcode.com/problems/find-k-closest-elements/
+# Review the following link for the question prompt: https://leetcode.com/problems/k-closest-points-to-origin/
 
 # O(N + K) time | O(N) space
 class Solution:
