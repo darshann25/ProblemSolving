@@ -15,7 +15,6 @@
     <li> Kth Largest Element in Array (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
-    <li> Longest Palindromic Substring (<b>Medium</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
     <li> Three Sum Closest (<b>Medium</b>)</li>
     <li> Longest Substring without Repeating Characters (<b>Medium</b>)</li>
