@@ -25,6 +25,7 @@
     <li> Binary Tree Level Order Traversal (<b>Medium</b>)</li>
     <li> Binary Tree Zig-Zag Level Order Traversal (<b>Medium</b>)</li>
     <li> Word Ladder (<b>Medium</b>)</li>
+    <li> Copy List with Random Pointer (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
     <li> Word Ladder II (<b>Hard</b>)</li>
