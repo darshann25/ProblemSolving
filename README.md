@@ -31,6 +31,7 @@
     <li> K Closest Points to Origin (<b>Medium</b>)</li>
     <li> Longest Palindromic Substring (<b>Medium</b>)</li>
     <li> Rotten Oranges (<b>Medium</b>)</li>
+    <li> Search Suggestions System (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
     <li> Word Ladder II (<b>Hard</b>)</li>
