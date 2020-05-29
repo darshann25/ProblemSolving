@@ -50,6 +50,7 @@
     <li> Move Element to End (<b>Medium</b>)</li>
     <li> Validate BST (<b>Medium</b>)</li>
     <li> Pattern Matcher (<b>Hard</b>)</li>
+    <li> Group Anagrams (<b>Medium</b>)</li>
     <li> Subarray Sort (<b>Hard</b>)</li>
     <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
     <li> Merge Linked Lists (<b>Hard</b>)</li>
