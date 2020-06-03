@@ -43,6 +43,7 @@
     <li> Word Ladder II (<b>Hard</b>)</li>
     <li> Critical Connections in a Network (<b>Hard</b>)</li>
     <li> Minimum Window Substring (<b>Hard</b>)</li>
+    <li> Merge K Sorted Lists (<b>Hard</b>)</li>
 </ol>
 
 <h2> AlgoExpert.io </h2>
