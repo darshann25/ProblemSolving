@@ -65,6 +65,7 @@
     <li> Longest Substring without Duplicates (<b>Hard</b>)</li>
     <li> Merge Linked Lists (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
+    <li> Lowest Common Manager (<b>Hard</b>)</li>
 </ol>
 
 ***
