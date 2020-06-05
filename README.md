@@ -17,6 +17,7 @@
     <li> Top K Frequent Mentioned Keywords (<b>Easy</b>)</li>
     <li> Missing Number (<b>Easy</b>)</li>
     <li> First Unique Character in a String (<b>Easy</b>)</li>
+    <li> Diameter of Binary Tree (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
