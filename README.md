@@ -45,6 +45,7 @@
     <li> Lowest Common Ancestor of a Binary Tree (<b>Medium</b>)</li>
     <li> Merge Intervals (<b>Medium</b>)</li>
     <li> Rotate Image (<b>Medium</b>)</li>
+    <li> Letter Combinations in a Phone Number (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
     <li> Word Ladder II (<b>Hard</b>)</li>
