@@ -20,6 +20,7 @@
     <li> Diameter of Binary Tree (<b>Easy</b>)</li>
     <li> Flood Fill (<b>Easy</b>)</li>
     <li> Maximum Subarray (<b>Easy</b>)</li>
+    <li> Min Stack (<b>Easy</b>)</li>
     <li> Num Islands (<b>Medium</b>)</li>
     <li> LRU Cache (<b>Medium</b>)</li>
     <li> Three Sum (<b>Medium</b>)</li>
