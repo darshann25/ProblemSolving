@@ -63,6 +63,7 @@
     <li> Word Search II (<b>Hard</b>)</li>
     <li> Median Two Sorted Arrays (<b>Hard</b>)</li>
     <li> Median From Data Stream (<b>Hard</b>)</li>
+    <li> Electoral Colleges (<b>Hard</b>)</li>
 </ol>
 
 <h2> AlgoExpert.io </h2>
