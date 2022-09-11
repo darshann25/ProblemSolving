@@ -1,3 +1,5 @@
+# Question from CS6515 - HW1 
+
 # O(n*Z) time | O(n*Z) space
 class Solution():
     def electoral_colleges(self, P, V, Z):

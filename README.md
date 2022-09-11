@@ -51,6 +51,8 @@
     <li> Generate Parentheses (<b>Medium</b>)</li>
     <li> Unique Path (<b>Medium</b>)</li>
     <li> Word Search (<b>Medium</b>)</li>
+    <li> Find Index (<b>Medium</b>)</li>
+    <li> Road Trip (<b>Medium</b>)</li>
     <li> Trapping Rain Water (<b>Hard</b>)</li>
     <li> Binary Tree Max Path Sum (<b>Hard</b>)</li>
     <li> Word Ladder II (<b>Hard</b>)</li>
